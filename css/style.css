@@ -203,6 +203,10 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   font-weight: 300;
 }
 
+.f_350 {
+  font-weight: 350;
+}
+
 .f_400 {
   font-weight: 400;
 }
