@@ -267,6 +267,10 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   margin-top: 60px;
 }
 
+.mt_45 {
+  margin-top: 45px;
+}
+
 .mt_30 {
   margin-top: 30px;
 }
@@ -14027,10 +14031,6 @@ p span {
 .blog_content a {
   font-weight: 400;
   font-size: 15px;
-  color: #5e2ced;
-}
-
-.blog_content h5:hover {
   color: #5e2ced;
 }
 
